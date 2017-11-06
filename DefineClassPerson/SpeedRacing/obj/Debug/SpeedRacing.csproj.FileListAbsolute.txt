@@ -1,0 +1,7 @@
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\SpeedRacing\obj\Debug\SpeedRacing.csprojResolveAssemblyReference.cache
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\SpeedRacing\obj\Debug\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\SpeedRacing\bin\Debug\SpeedRacing.exe.config
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\SpeedRacing\bin\Debug\SpeedRacing.exe
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\SpeedRacing\bin\Debug\SpeedRacing.pdb
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\SpeedRacing\obj\Debug\SpeedRacing.exe
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\SpeedRacing\obj\Debug\SpeedRacing.pdb

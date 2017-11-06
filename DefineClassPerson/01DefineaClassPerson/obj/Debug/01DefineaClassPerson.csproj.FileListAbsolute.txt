@@ -1,0 +1,7 @@
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\01DefineaClassPerson\bin\Debug\01DefineaClassPerson.exe.config
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\01DefineaClassPerson\bin\Debug\01DefineaClassPerson.exe
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\01DefineaClassPerson\bin\Debug\01DefineaClassPerson.pdb
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\01DefineaClassPerson\obj\Debug\01DefineaClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\01DefineaClassPerson\obj\Debug\01DefineaClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\01DefineaClassPerson\obj\Debug\01DefineaClassPerson.exe
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\01DefineaClassPerson\obj\Debug\01DefineaClassPerson.pdb

@@ -1,0 +1,7 @@
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\CompanyRoster\bin\Debug\CompanyRoster.exe.config
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\CompanyRoster\bin\Debug\CompanyRoster.exe
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\CompanyRoster\bin\Debug\CompanyRoster.pdb
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\CompanyRoster\obj\Debug\CompanyRoster.csprojResolveAssemblyReference.cache
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\CompanyRoster\obj\Debug\CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\CompanyRoster\obj\Debug\CompanyRoster.exe
+C:\Users\valch_000\Desktop\PROJECTS\Databases Advanced - Entity Framework\01DefineClassPerson\CompanyRoster\obj\Debug\CompanyRoster.pdb
